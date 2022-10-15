@@ -105,4 +105,9 @@
     <!-- Black theme -->
     <string name="system_black_theme_title">Use better black theme</string>
     <string name="system_black_theme_summary">Try to force black background colors</string>
+
+    <string name="qs_transparency_category_title">QS Additional Settings</string>
+    <string name="qs_transparency_title">QS Transparency</string>
+    <string name="qs_transparency_summary">QS Transparency blur value</string>
+
 </resources>
